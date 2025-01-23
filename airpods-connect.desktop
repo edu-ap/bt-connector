@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Connect AirPods Pro
+Comment=Connect to AirPods Pro
+Exec="/path/to/bt-connector/connect_airpods.sh"
+Icon=bluetooth
+Terminal=false
+Categories=Utility; 

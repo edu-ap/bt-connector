@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Disconnect AirPods Pro
+Comment=Disconnect from AirPods Pro
+Exec="/path/to/bt-connector/disconnect_airpods.sh"
+Icon=bluetooth
+Terminal=false
+Categories=Utility; 
