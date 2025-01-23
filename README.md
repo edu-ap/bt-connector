@@ -2,6 +2,20 @@
 
 A simple utility to connect and disconnect Apple AirPods Pro on Linux systems using the command line or desktop shortcuts.
 
+## Why This Tool?
+
+As Linux users with Apple devices, we often face the challenge of managing Bluetooth connections across different ecosystems. AirPods are designed to seamlessly switch between Apple devices, but this can lead to unexpected behavior when using them with Linux systems. Common frustrations include:
+
+- AirPods attempting to auto-reconnect to your Linux machine when you're trying to use them with your iPhone
+- Having to navigate through multiple clicks in the Bluetooth Manager GUI to connect or disconnect
+- Losing precious time switching between devices during calls or meetings
+
+This tool streamlines the connection process by providing quick keyboard shortcuts. Simply press the Super (Windows) key + Space, type "connect" or "disconnect", and hit Enter. This workflow is:
+
+- Fast: No more clicking through GUI menus
+- Reliable: Direct communication with the Bluetooth system
+- Efficient: Perfect for users who prefer keyboard-driven workflows
+
 ## Prerequisites
 
 - Linux system with BlueZ (bluetooth stack)
